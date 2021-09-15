@@ -34,6 +34,14 @@ Este es el código básico para correr un bot de discord:
 
 > TOKEN: bot token that we have saved before
 
-## Version control
+## Resources:
 
 Git repository: https://github.com/indigarci/Boteba-Joselena
+
+Youtube video: https://www.youtube.com/watch?v=SPTfmiYiuok
+
+Online IDE: https://replit.com/
+
+Discord for developers: https://discord.com/developers/applications/887397005213708369/bot
+
+Discord API: https://discordpy.readthedocs.io/en/latest/api.html#client
