@@ -29,6 +29,18 @@ async def on_message(message):
   # Commands
   if msg.startswith('$hello'):
     await message.channel.send('hola')
+
+  if (message.content.startsWith('$play')) {
+    execute(message, serverQueue);
+    return;
+
+  if (message.content.startsWith('$skip')) {
+    skip(message, serverQueue);
+    return;
+
+  if (message.content.startsWith('$stop')) {
+    stop(message, serverQueue);
+    return;
  
   # JSON key checking 
   coincidences = get_coincidences(msg.split(" "), lores.keys())

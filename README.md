@@ -45,3 +45,5 @@ Online IDE: https://replit.com/
 Discord for developers: https://discord.com/developers/applications/887397005213708369/bot
 
 Discord API: https://discordpy.readthedocs.io/en/latest/api.html#client
+
+Musica : https://gabrieltanner.org/blog/dicord-music-bot
